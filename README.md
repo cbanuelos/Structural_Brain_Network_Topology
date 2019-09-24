@@ -56,13 +56,13 @@ There is growing evidence that brain networks have small-worldness properties, t
 **Baseline IGT Measures (Figure 4)**
  - **Payoff (P):** (baseline_p) difference between the participant’s total selections from the “advantageous” decks minus the “disadvantageous” decks
  
-$$ P = (C+D) - (A+B) $$
+P = (C+D) - (A+B)
  
- <br>
+<br>
  
  - **Sensitivity to Frequency of Reward (Q):** (baseline_q) difference between the participant’s total selections from decks with a high reward frequency minus the decks with a low reward frequency
  
-$$ Q = (B+D) - (A+C)$$
+Q = (B+D) - (A+C)
  
  ### Figure 4: Iowa Gambling Task Desk Specifications
 <br>
